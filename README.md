@@ -70,5 +70,4 @@ npm run dev
 ### 4. Explore
 Navigate to `http://localhost:5173` in your browser to experience NexusTravel!
 
-## 📄 License
-This project is open-source and available under the MIT License.
+
