@@ -68,6 +68,6 @@ npm run dev
 ```
 
 ### 4. Explore
-Navigate to `http://localhost:5173` in your browser to experience NexusTravel!
+run this  `http://localhost:5173`
 
 
