@@ -68,6 +68,6 @@ npm run dev
 ```
 
 ### 4. Explore
-run this  `http://localhost:5173`
+run this on ur computer  `http://localhost:5173`
 
 
